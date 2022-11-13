@@ -1,5 +1,5 @@
 import os
 
-print("hello world")
+print("hello naughty world")
 
-print("atta nahi yaha aashiq ban jana")
+print("Shalu Nagar Kushwaha is the best girl I've ever known")
